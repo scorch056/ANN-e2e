@@ -7,3 +7,4 @@ streamlit
 tensorboard
 ipykernel
 scikeras
+nltk
